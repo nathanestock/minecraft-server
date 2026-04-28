@@ -27,6 +27,7 @@
 * Mekanism (with full suite of addons)
 * Applied Energistics 2
 * ComputerCraft: Tweaked (with Advanced Peripherals)
+* Stellaris
 
 ### Automation and Storage
 
