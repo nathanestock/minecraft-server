@@ -1,4 +1,4 @@
-# 1.21.1 Modded Modpack
+# 1.21.1 Modded Minecraft
 
 ## Installation
 
